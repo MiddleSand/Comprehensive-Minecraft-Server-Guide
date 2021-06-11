@@ -24,4 +24,8 @@ World managment plugins
 ## Building
 Plugins for building ingame
 
+## Utility
+Plugins for utility purposes
 
+## Miscellaneous
+Extra plugins which may or may not do weird things xD
