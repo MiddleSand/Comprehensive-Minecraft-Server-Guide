@@ -13,6 +13,7 @@ Looking to contribute? Check [here!](Contributing.md) :D
 - [First-Time Server Owner Series](Basics/Basics_Planning.md)
 - [Developer Documentation](Dev/Dev_Index.md)
 
+## Server Backend Types
 
 **Bukkit Based Server Software/Server Jars**
 There are many different bukkit server jars you can chose from, as it is by far the most widely used type of server. For more information please see the BUKKIT (currently unmade) section. Here is a quick list of all the specific jars I will be talking about.
