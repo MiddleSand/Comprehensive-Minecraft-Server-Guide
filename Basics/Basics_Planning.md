@@ -41,7 +41,7 @@ The first thing you'll need to actually make your server is a Server Host. There
 - VPS Hosting. Requires sysadmin skills, generally knowing your way around a Linux console. When looking for a VPS provider, ensure they provide dedicated cores with good single-thread performance as well as a decent ammount of storage with good read-write speeds, good ram, and a good bit of bandwidth.
 - Dedi / Managed Dedi. Not for the faint of heart. Best for larger networks, you'll have full control over your host machine. Best for experienced server owners. If you're considering getting a dedi, if you don't know what you need then dedi's are most likely not for you.
 
-Select a serverhost before you plan out your financial strategy, so you know how much funding you need to operate.
+Select a serverhost before you plan out your financial strategy, so you know how much funding you need to operate. There are files in the Hostings folder of this repo that explain in detail how to setup and operate most hosts of the types listed above.
 
 # Funding
 
@@ -60,8 +60,8 @@ Pick a name for your server. Avoid generic names like CraftMC or MineServer, as 
 
 Pick your color scheme. Generally color schemes come from a bright primary color, a lesser secondary color, and a faint background color. The secondary color is generally defined or influenced by your primary color. If you want, you can use this as a basis for your primary color as well, bearing in mind what impression you want to make. [http://www.arttherapyblog.com/resources/color-meanings-symbolism-charts/#.YMPRl0wpBjR]
 
-Design your server logo. For a full tutorial on logo design as well as image design for servership, see the file imagedesign.md. (TODO)
+Design your server logo. For a full tutorial on logo design as well as image design for servership, see the file Basics_ImageDesign.md. (TODO)
 
 # Where now?
 
-Now that you've planned out your server's fundamental pieces, feel free to take a look at basics-launch-guide.md for next steps, or look around this repository for information you need if you're somewhat experienced.
+Now that you've planned out your server's fundamental pieces, feel free to take a look at Basics_StartWork.md for next steps, or look around this repository for information you need if you're somewhat experienced.
