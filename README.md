@@ -4,7 +4,7 @@ This guide is designed to help those new and old in the Minecraft server communi
 
 First-time server owner? Check [this series of files](Basics/Basics_Planning.md) for an in-depth walkthrough of starting a server from start to launch day.
 
-You may use the search function to find specific pieces of information. The title of all sections can be found in the SECTIONS section.
+You may use the search function to find specific sections. The registry of all sections is found below, in **Sections**.
 
 Looking to contribute? Check [here!](Contributing.md) :D
 
