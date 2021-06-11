@@ -10,7 +10,7 @@ You may use the search function to find specific pieces of information. The titl
 ## SECTIONS
 - INTRO
 - SECTIONS
-- SERVER SOFTWARE/SERVER JARS
+- [SERVER SOFTWARE/SERVER JARS](https://github.com/Kurumi78/Comprehensive-Minecraft-Server-Guide/blob/work/Server%20Software/Server_Software.md) 
 
 
 **Bukkit Based Server Software/Server Jars**
