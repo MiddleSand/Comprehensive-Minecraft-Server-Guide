@@ -62,6 +62,6 @@ Pick your color scheme. Generally color schemes come from a bright primary color
 
 Design your server logo. For a full tutorial on logo design as well as image design for servership, see the file imagedesign.md. (TODO)
 
-#Where now?
+# Where now?
 
 Now that you've planned out your server's fundamental pieces, feel free to take a look at basics-launch-guide.md for next steps, or look around this repository for information you need if you're somewhat experienced.
