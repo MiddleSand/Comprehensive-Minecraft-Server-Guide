@@ -4,6 +4,7 @@ This guide is designed to help those new and old in the Minecraft server communi
 
 This guide can contain any information relating to server ownership or administration, including but not limited to ...
 
+First-time server owner? Check the Basics folder and start with Basics_Planning for an in-depth walkthrough of starting a server from start to launch day.
 
 You may use the search function to find specific pieces of information. The title of all sections can be found in the SECTIONS section.
 ## SECTIONS
