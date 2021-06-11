@@ -1,10 +1,10 @@
-#Initial Server Planning
+# Initial Server Planning
 
 The start of any server project *isn't* jumping into development, or advertising, or seeking funding, but rather developing a plan. Without a plan, you're siginifcantly more likely to end up with an incomplete or otherwise deformed final server. Consider it like outlining an essay before writing it. In fact, as you plan your server it may benefit you to write it down in outline fashion. (See online sources if you don't know how to make an outline, for example https://www.iup.edu/writingcenter/writing-resources/organization-and-structure/creating-an-outline/) 
 
 A good place to begin is figuring out which gamemodes you're going to offer, and more specifically what's going to set those gamemodes apart from existing servers. 
 
-#Gamemode Planning
+# Gamemode Planning
 
 Firstly a gamemode must be defined, and a distinction must be made between gamemodes planned to launch with and gamemodes in general. 
 
@@ -18,7 +18,7 @@ Rather, for your first gamemodes try to find a balance between uniqueness and po
 
 Depending on your situation in starting your server, you can have anywhere from 1 starter mode to as many as your heart desires, however it's advised to keep it a fairly low number until a substantial playerbase has been developed.
 
-#Gamemode Overlap
+# Gamemode Overlap
 
 Gamemode Overlap is a concept involving similar types of gamemodes on a single server. There are several fundamental categories of gamemodes: The "Survival-centric" gamemodes such as SMP, Anarchy, Prison, Factions, etc., the "Minigame-centric" gamemmodes such as minigames, and "Story-centric" gamemodes such as RPG modes. Beyond that, there are several attributes to these gamemodes such as whether they're grindy-gamemodes where you sit around and grind for things all day, or active gamemodes where it isn't just monotonous grinding. 
 
@@ -28,11 +28,11 @@ The problem arises when we try to put multiple puppy pictures on the same paper.
 
 Likewise, running two Survival-centric gamemodes on a server draws away from them both, UNLESS the server has a substantial playerbase. However for the new or small server, gamemode overlap isn't going to contribute anything good.
 
-#Logistics
+# Logistics
 
 Now that you've established *what* you're going to offer as a server, we must now look to *how* you're going to deliver it.
 
-#Host Selection
+# Host Selection
 
 The first thing you'll need to actually make your server is a Server Host. There are several options for this:
 
@@ -43,7 +43,7 @@ The first thing you'll need to actually make your server is a Server Host. There
 
 Select a serverhost before you plan out your financial strategy, so you know how much funding you need to operate.
 
-#Funding
+# Funding
 
 Next is the tricky part: Figuring out how to keep your server afloat. Beyond initial investment funding, there are two primary approaches to funding a server in a profitable way: Perks-based or gratitude-based.
 
@@ -52,7 +52,7 @@ Next is the tricky part: Figuring out how to keep your server afloat. Beyond ini
 
 You *CAN* grant server-wide perks in either of these strategies for achieving donation goals, however that's a stronger influence in Gratitude-based. Gratitude-based also seems to draw in a more considerate playerbase, though that's not always the case.
 
-#Visual Design / Marketing
+# Visual Design / Marketing
 
 Ah, the fun part. Now that the nitty-gritty details are out of the way, we can focus on the fun part. The following steps can be followed in any order, however it flows best if you use the order they're listed in.
 
