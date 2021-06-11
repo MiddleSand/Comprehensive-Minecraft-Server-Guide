@@ -1,16 +1,17 @@
 # Comprehensive-Minecraft-Server-Guide
-##INTRO
+## INTRO
 This guide is designed to help those new and old in the Minecraft server community alike with any and every bit of information available all in one place.
 
-This guide can contain any information relating to server ownership or administration, including but not limited to ...
-
-First-time server owner? Check the Basics folder and start with Basics_Planning for an in-depth walkthrough of starting a server from start to launch day.
+First-time server owner? Check [this series of files](Basics/Basics_Planning.md) for an in-depth walkthrough of starting a server from start to launch day.
 
 You may use the search function to find specific pieces of information. The title of all sections can be found in the SECTIONS section.
+
+Looking to contribute? Check [here!](Contributing.md) :D
+
 ## SECTIONS
-- INTRO
-- SECTIONS
-- SERVER SOFTWARE/SERVER JARS
+- [Plugin Documentation](Plugins/Plugin_Index.md)
+- [First-Time Server Owner Series](Basics/Basics_Planning.md)
+- [Developer Documentation](Dev/Dev_Index.md)
 
 
 **Bukkit Based Server Software/Server Jars**
