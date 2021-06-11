@@ -1,4 +1,4 @@
-# Plugin Index
+# Dev Index
 
 [Back to README.md](../README.md)
 

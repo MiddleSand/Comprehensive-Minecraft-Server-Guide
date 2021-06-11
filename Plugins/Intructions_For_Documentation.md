@@ -8,7 +8,9 @@ Name of Plugin (Same as filename)
 
 Summary of what it does
 
-Versions supported at time of writing/update
+Minecraft versions supported at time of writing/update
+
+Java versions supported at time of writing/update
 
 Link to spigotmc page or wherever you get the plugin from, and a link to git if possible.
 
