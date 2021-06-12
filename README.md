@@ -7,8 +7,9 @@ First-time server owner? Check [this series of files](Basics/Basics_Planning.md)
 You may use the search function to find specific sections. The registry of all sections is found below, in **Sections**.
 
 Looking to contribute? Check [here!](Contributing.md) :D
+
 ## SECTIONS
-- INTRO
-- SECTIONS
-
-
+- [Plugin Documentation](Plugins/Plugin_Index.md)
+- [First-Time Server Owner Series](Basics/Basics_Planning.md)
+- [Developer Documentation](Dev/Dev_Index.md)
+- [SERVER SOFTWARE/SERVER JARS](https://github.com/Kurumi78/Comprehensive-Minecraft-Server-Guide/blob/work/Server%20Software/Server_Software.md) 

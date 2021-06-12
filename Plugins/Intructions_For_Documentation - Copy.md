@@ -2,7 +2,7 @@
 
 This category is a catalog of plugins from all over. When documenting a plugin or modifying an existing documentation, please follow the following format:
 
-Today's Date
+"Today's Date
 
 Name of Plugin (Same as filename)
 
@@ -16,4 +16,7 @@ Description
 
 Implementation instructions
 
-Any warnings for implementation
+Any warnings for implementation"
+
+## Also ensure to register your documentation in [Plugin_Index.md](Plugin_Index.md)
+
