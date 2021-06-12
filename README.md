@@ -12,4 +12,4 @@ Looking to contribute? Check [here!](Contributing.md) :D
 - [Plugin Documentation](Plugins/Plugin_Index.md)
 - [First-Time Server Owner Series](Basics/Basics_Planning.md)
 - [Developer Documentation](Dev/Dev_Index.md)
-- [SERVER SOFTWARE/SERVER JARS](https://github.com/Kurumi78/Comprehensive-Minecraft-Server-Guide/blob/work/Server%20Software/Server_Software.md) 
+- [Server Software/Server Jars](https://github.com/Kurumi78/Comprehensive-Minecraft-Server-Guide/blob/work/Server%20Software/Server_Software.md) 
