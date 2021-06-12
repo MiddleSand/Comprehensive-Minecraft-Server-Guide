@@ -10,6 +10,5 @@ Looking to contribute? Check [here!](Contributing.md) :D
 ## SECTIONS
 - INTRO
 - SECTIONS
-- [SERVER SOFTWARE/SERVER JARS](https://github.com/Kurumi78/Comprehensive-Minecraft-Server-Guide/blob/work/Server%20Software/Server_Software.md) 
 
 
