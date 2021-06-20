@@ -6,6 +6,8 @@ This file is a list of all dev documentations contained within this directory.
 ## Basics
 Basic development library stuff
 
+- [Bukkit and the Spigot API](Bukkit_Spigot_Api.md)
+
 ## Dependencies
 Implementations for various plugins
 
